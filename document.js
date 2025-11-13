@@ -1,0 +1,1 @@
+alert ("Este é um documento de estudos, estou tornando público para adicionar ao meu portifólio, mas fica aqui para aqueles que tiverem curiosidade e quiserem utiliza-lo para estudos. Obrigado por ler e até mais. (:");
